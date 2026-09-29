@@ -1,0 +1,6 @@
+{
+  "name": "Figura e Palavra",
+  "description": "Aplicativo minimalista para estudo de língua inglesa com flashcards interativos de imagem e palavra, gerador e exportador de widgets HTML incorporáveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
